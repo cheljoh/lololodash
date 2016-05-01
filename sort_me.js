@@ -5,5 +5,3 @@ var worker = function(items){
 };
 
 module.exports = worker;
-
-console.log(worker)
